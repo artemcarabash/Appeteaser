@@ -11,7 +11,7 @@ to define mobile marketplaces for food distribution. With real-time group notifi
 food and producer information, the mobile social food experience is kept dynamic and the 
 establishment and promotion of healthy and sustainable eating habits is supported.
 
-##Screenshots
+## Screenshots
 
 ![cp](assets/screens/1.png)
 ![cp](assets/screens/2.png)
