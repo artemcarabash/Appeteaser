@@ -13,8 +13,23 @@ establishment and promotion of healthy and sustainable eating habits is supporte
 
 ## Screenshots
 
-![cp](assets/screens/1.png)
-![cp](assets/screens/2.png)
-![cp](assets/screens/3.png)
-![cp](assets/screens/4.png)
-![cp](assets/screens/5.png)
+<table>
+ <tr>
+  <td>
+   <img src="assets/screens/1.png" width="200"/>
+  </td>
+  <td>
+   <img src="assets/screens/2.png" width="200"/>
+  </td>
+  <td>
+   <img src="assets/screens/3.png" width="200"/>
+  </td>
+    <td>
+   <img src="assets/screens/4.png" width="200"/>
+  </td>
+    <td>
+   <img src="assets/screens/5.png" width="200"/>
+  </td>
+  </tr>
+ </table>
+
